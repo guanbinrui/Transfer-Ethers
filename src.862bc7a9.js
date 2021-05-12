@@ -17,4 +17,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"react":"HdMw"}],"OGgv":[function(require,module,exports) {
 "use strict";var e=this&&this.__importDefault||function(e){return e&&e.__esModule?e:{default:e}};Object.defineProperty(exports,"__esModule",{value:!0});var r=e(require("react")),t=e(require("react-dom")),u=require("./components/App");t.default.render(r.default.createElement(u.App,null),document.querySelector("#root"));
 },{"react":"HdMw","react-dom":"X9zx","./components/App":"yKEB"}]},{},["OGgv"], null)
-//# sourceMappingURL=/src.862bc7a9.js.map
+//# sourceMappingURL=https://guanbinrui.github.io/Transfer-Ethers/src.862bc7a9.js.map
